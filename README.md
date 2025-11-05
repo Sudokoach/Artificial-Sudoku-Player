@@ -1,5 +1,5 @@
 
-![Sudoku Demo Interface](Sudoku Demo Interface.png)
+![Sudoku Demo Interface](https://github.com/Sudokoach/Artificial-Sudoku-Player/blob/071f61bf6944c80142309346cdc9147165fe636c/Sudoku%20Demo%20Interface.png)
 
 # 🧩 Sudoku Reasoning Demo - GUI Description
 
