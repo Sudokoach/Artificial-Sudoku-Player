@@ -1,4 +1,6 @@
 
+![Sudoku Demo Interface](Sudoku Demo Interface.png)
+
 # 🧩 Sudoku Reasoning Demo - GUI Description
 
 ## 🎯 **Interactive Sudoku Solver Interface**
