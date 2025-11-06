@@ -1,7 +1,7 @@
 ## 🚀 Quick Start
 1. Download `SudokuDemo.jar`
-2. Run: `java -jar SudokuDemo.jar`
-3. Load puzzles from `Puzzles.zip` folder
+2. Load puzzles from `Puzzles.zip` folder
+3. Run: `java -jar SudokuDemo.jar`
 
 ![Sudoku Demo Interface](https://github.com/Sudokoach/Artificial-Sudoku-Player/blob/071f61bf6944c80142309346cdc9147165fe636c/Sudoku%20Demo%20Interface.png)
 
